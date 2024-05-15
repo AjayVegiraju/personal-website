@@ -2,7 +2,7 @@ import React from 'react';
 
 function Blog() {
   return (
-    <section id="blog">
+    <section>
       <h2>Blog</h2>
       <div className="blog-post">
         <h3>Blog Post 1</h3>

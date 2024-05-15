@@ -2,7 +2,7 @@ import React from 'react';
 
 function Contact() {
   return (
-    <section id="contact">
+    <section>
       <h2>Contact</h2>
       <form action="submit_form.php" method="post">
         <label htmlFor="name">Name:</label>
