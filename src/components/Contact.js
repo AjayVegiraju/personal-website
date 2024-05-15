@@ -13,9 +13,9 @@ function Contact() {
         <textarea id="message" name="message"></textarea>
         <button type="submit">Send</button>
       </form>
-      <p>Email: [Your Email]</p>
-      <p>Phone: [Your Phone Number]</p>
-      <p>Social: [Your Social Media Links]</p>
+      <p>Email: vegirajuajayvarma@gmail.com</p>
+      <p>Phone: (425)-281-9139</p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/ajayvegiraju/" target="_blank" rel="noopener noreferrer">linkedin.com/in/ajayvegiraju</a></p>
     </section>
   );
 }

@@ -14,6 +14,7 @@ function Blog() {
         <p>[Excerpt of Blog Post 2]</p>
         <a href="#">Read More</a>
       </div>
+      {/* Add more blog posts as needed */}
     </section>
   );
 }
